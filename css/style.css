@@ -22,7 +22,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", sans-serif;
-  color: #000;
+  color: #000b00;
   font-weight: 300;
 }
 
@@ -45,7 +45,7 @@ p, li, blockquote, label {
   font-size: 16px;
   letter-spacing: 0;
   line-height: 25px;
-  color: #808080;
+  color: #da12d3;   pragh
   margin-bottom: 0;
 }
 
@@ -60,7 +60,7 @@ cite {
 }
 
 .form-control::-webkit-input-placeholder {
-  color: #808080;
+  color: #58d117;
   line-height: 25px;
   font-size: 16px;
 }
@@ -131,7 +131,7 @@ body {
 
 .overlay:before {
   content: '';
-  background: rgba(105, 140, 230, 0.1);
+  background: rgb(107, 225, 99);
   position: absolute;
   top: 0;
   left: 0;
@@ -146,7 +146,7 @@ a {
 
 a:focus,
 a:hover {
-  color: #2e7eed;
+  color: #2eed4b;
   text-decoration: none;
 }
 
@@ -155,7 +155,7 @@ a:hover {
 }
 
 .bg-blue {
-  background: #2e7eed;
+  background: #3bed2e;
 }
 
 .bg-1 {
@@ -234,7 +234,7 @@ a:hover {
   height: 125px;
   width: 125px;
   font-size: 40px;
-  background: #2e7eed;
+  background: #8ded2e;
   border-radius: 100%;
   color: #fff;
   line-height: 125px;
@@ -256,7 +256,7 @@ a:hover {
 }
 
 .form-control.main {
-  background: #fff;
+  background: #31d00e;
   padding: 15px 20px;
   height: 48px;
   margin-bottom: 20px;
@@ -265,7 +265,7 @@ a:hover {
 }
 
 .form-control.main:focus {
-  border: 1px solid #2e7eed;
+  border: 1px solid #26da19;
   box-shadow: none;
 }
 
@@ -328,7 +328,7 @@ button:focus,
   padding: 20px 35px;
   font-size: 14px;
   background: #fff;
-  color: #2e7eed;
+  color: #44ed2e;
 }
 
 .btn-download span {
@@ -339,7 +339,7 @@ button:focus,
 .btn-main {
   padding: 25px 45px;
   border-radius: 3px;
-  background: #2e7eed;
+  background: #2eed2e;
   color: #fff;
   outline: none;
 }
@@ -356,7 +356,7 @@ button:focus,
 .btn-main-md {
   padding: 17px 38px;
   border-radius: 3px;
-  background: #2e7eed;
+  background: #6eed2e;
   color: #fff;
   outline: none;
 }
@@ -373,7 +373,7 @@ button:focus,
 .btn-main-sm {
   padding: 15px 35px;
   border-radius: 3px;
-  background: #2e7eed;
+  background: #5eed2e;
   color: #fff;
   outline: none;
   font-size: 14px;
@@ -390,7 +390,7 @@ button:focus,
 
 .btn-white {
   background: white;
-  color: #2e7eed;
+  color: #57ed2e;
 }
 
 .btn-rounded-icon {
@@ -437,12 +437,12 @@ button:focus,
 }
 
 .main-nav .navbar-nav .nav-item.active .nav-link {
-  color: #2e7eed;
+  color: #2eed44;
 }
 
 .main-nav .navbar-nav .nav-item.active .nav-link:before {
   content: '';
-  background: #2e7eed;
+  background: #5bed2e;
   width: 60%;
   height: 2px;
   position: absolute;
@@ -511,7 +511,7 @@ button:focus,
 
 .main-nav .dropdown .dropdown-menu .dropdown-item.active, .main-nav .dropdown .dropdown-menu .dropdown-item.focus, .main-nav .dropdown .dropdown-menu .dropdown-item:focus, .main-nav .dropdown .dropdown-menu .dropdown-item:hover {
   background-color: transparent;
-  color: #2e7eed;
+  color: #5bed2e;
 }
 
 .main-nav .dropdown .dropdown-menu li:first-child {
@@ -545,7 +545,7 @@ button:focus,
 
 .dropdown-submenu.active > a,
 .dropdown-submenu:hover > a {
-  color: #2e7eed;
+  color: #5eed2e;
 }
 
 .dropleft .dropdown-menu,
@@ -583,7 +583,7 @@ button:focus,
 
 .footer-main {
   padding: 92px 0;
-  background: #1a1b1f;
+  background: #c21b23; product last
 }
 
 @media (max-width: 768px) {
@@ -606,7 +606,7 @@ button:focus,
   width: 38px;
   height: 38px;
   border-radius: 100%;
-  background: #3f3f43;
+  background: #3f433f;
   color: #fff;
   text-align: center;
   line-height: 38px;
@@ -642,7 +642,7 @@ button:focus,
 }
 
 .footer-main .block-2 ul li a:hover {
-  color: #fff;
+  color: #ffffff;
 }
 
 .footer-classic {
@@ -688,7 +688,7 @@ button:focus,
   height: 40px;
   line-height: 40px;
   text-align: center;
-  background: #2e7eed;
+  background: #2fd64e;  
   color: #fff;
   transition: 0.3s;
   z-index: 999556;
@@ -977,7 +977,7 @@ button:focus,
 
 .service .service-box .service-item i {
   font-size: 20px;
-  color: #2e7eed;
+  color: #54ed2e;
   display: inline-block;
   margin-bottom: 10px;
 }
@@ -1094,7 +1094,7 @@ button:focus,
 .video-promo .content-block a i.video {
   height: 125px;
   width: 125px;
-  background: #2e7eed;
+  background: #ed2e44;
   display: inline-block;
   font-size: 40px;
   color: #fff;
@@ -1175,7 +1175,7 @@ button:focus,
   width: 200%;
   height: 200%;
   border-radius: 50%;
-  background-image: linear-gradient(45deg, #009EC5 0%, #2e7eed 20%, #02225B 50%);
+  background-image: linear-gradient(45deg, #0959ed 0%, #44f309 20%, #14a6cee0 50%); frist p
 }
 
 .pull-top {
@@ -1201,7 +1201,7 @@ button:focus,
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(15, 122, 199, 0.549);
   -webkit-transform: rotate(-35deg);
           transform: rotate(-35deg);
   position: absolute;
@@ -1328,7 +1328,7 @@ hr {
   display: block;
   height: 2px;
   border: 0;
-  border-top: 2px solid #2e7eed;
+  border-top: 2px solid #2eed38;
   margin: 1em 0;
   padding: 0;
 }
@@ -1337,7 +1337,7 @@ hr {
   height: 80px;
   width: 80px;
   text-align: center;
-  background: #2e7eed;
+  background: #4eed2e;
 }
 
 .icon-box i {
@@ -1386,7 +1386,7 @@ hr {
 
 .team-sm .image .social-links {
   position: absolute;
-  background: #2e7eed;
+  background: #8ff430;
   left: 0;
   right: 0;
   text-align: center;
@@ -1486,7 +1486,7 @@ hr {
 }
 
 .featured-article article.featured .content h2 a:hover {
-  color: #2e7eed;
+  color: #61ed2e;
 }
 
 .featured-article article.featured .content p {
@@ -2164,7 +2164,7 @@ hr {
 
 .coming-soon .block .count-down .syotimer-cell .syotimer-cell__unit {
   font-size: 20px;
-  color: #6c6c6c;
+  color: #be071c;
   text-transform: uppercase;
   font-weight: normal;
 }
